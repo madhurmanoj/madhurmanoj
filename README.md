@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Java,Javascript**
+- 💬 Ask me about **Java,Javascript,HTML,CSS**
 
 - 📫 How to reach me **madhurmanoj.umu.cse@gmail.com**
 
