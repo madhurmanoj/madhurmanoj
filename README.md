@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,Java Advanced**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5571115472626819934](https://www.blogger.com/blog/posts/5571115472626819934)
+- 📝 I regularly write articles on [https://madhurmanoj.blogspot.com](https://madhurmanoj.blogspot.com)
 
 - 💬 Ask me about **HTML,CSS,Java,Javascript**
 
