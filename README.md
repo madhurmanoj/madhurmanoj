@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madhur Manoj</h1>
 <h3 align="center">A passionate Java Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Face Recognition app using Java**
-
 - 🌱 I’m currently learning **SpringBoot,Java Advanced**
 
 - 📝 I regularly write articles on [https://madhurmanoj.blogspot.com](https://madhurmanoj.blogspot.com)
 
-- 💬 Ask me about **HTML,CSS,Java,Javascript**
+- 💬 Ask me about **HTML,CSS,Python,Java,Javascript**
 
 - 📫 How to reach me **madhurmanoj.umu.cse@gmail.com**
 
