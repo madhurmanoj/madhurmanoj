@@ -5,9 +5,9 @@
 
 * 🌱 I’m currently learning **Python**
 
-* 💬 Ask me about **React, Java**
+* 💬 Ask me about **React, JavaScript**
 
-* 📫 How to reach me **madhurmanoj.umu.cse@gmail.com**
+* 📫 How to reach me **Mail ID : madhurmanoj.umu.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
